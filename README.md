@@ -1,4 +1,4 @@
-# AI_HACKATHON-Chest-Xray
+# AI-for-HealthCare-Hackathon-Chest-Xray
 
 Kaggle link : Pneumonia : https://www.kaggle.com/vidhan26/hash-directors-pneumonia-xray
 
